@@ -13,7 +13,7 @@
    		gh repo clone pedromendoza-system/ElectroTech	
 
 	3.2. Abrir el proyecto en Visual Studio.
-   		Ejecutando o abriendo el archivo   "ElectroTech.cln"
+   		Ejecutando o abriendo el archivo   "ElectroTech.sln"
 
 	3.3. Ejecutar los scripts incluidos en el archivo "Database.txt" en el entorno "Microsoft sql server management studio" para crear la BD.
 
